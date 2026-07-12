@@ -1,20 +1,31 @@
-# Technical Writing Portfolio
+<p align="center">
 
-> **Senior Technical Writer | Product Documentation | API Documentation | Docs-as-Code | Information Architecture | AI-Assisted Documentation**
+# Amjitha VS
+
+### Senior Technical Writer • Documentation Lead
+
+**Product Documentation • API Documentation • Docs-as-Code • Information Architecture • AI-Assisted Documentation**
+
+📍 Bangalore, India
+
+</p>
 
 ---
 
-# Welcome
+> **Enterprise documentation portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across Semiconductor, FinTech, and Enterprise Software.**
 
-Hi, I'm **Amjitha VS**.
+---
 
-I'm a Senior Technical Writer with **12+ years of experience** creating technical documentation for **Semiconductor (EDA), FinTech, and Enterprise Software** products.
+## Welcome
 
-Throughout my career, I have collaborated with Engineering, Product Management, QA, Customer Support, and UX teams to transform complex technical concepts into clear, accurate, and customer-focused documentation.
+I'm a **Senior Technical Writer with 12+ years of experience** creating technical documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
 
-This portfolio showcases my approach to planning, authoring, reviewing, publishing, and maintaining technical documentation throughout the software development lifecycle.
+I partner with Engineering, Product Management, UX, QA, and Customer Support teams to transform complex technical concepts into clear, accurate, and customer-focused documentation.
+
+This portfolio demonstrates my approach to documentation strategy, information architecture, product documentation, API documentation, release documentation, and modern Docs-as-Code practices.
 
 > **Disclaimer:** The documentation samples included in this portfolio are original, fictional, or sanitized examples created solely to demonstrate my technical writing capabilities. They do **not** contain confidential or proprietary information from any current or former employer.
+
 
 ---
 
@@ -53,56 +64,6 @@ This portfolio showcases my approach to planning, authoring, reviewing, publishi
 | Collaboration | Jira, Confluence, Microsoft Teams |
 | Multimedia | Snagit, Camtasia, Draw.io |
 | Documentation Practices | Information Architecture, Content Strategy, Documentation Governance, AI-Assisted Documentation |
-
----
-
-# Featured Documentation
-
-## 📘 Documentation Framework
-
-These documents demonstrate documentation planning, governance, standards, review processes, and content strategy.
-
-- Documentation Roadmap
-- Information Architecture
-- Documentation Review Checklist
-- AI-Assisted Documentation
-- Docs-as-Code Workflow
-- Accessibility Guidelines
-
----
-
-## 💻 Semiconductor Documentation Samples
-
-Representative documentation demonstrating semiconductor product documentation, hardware documentation, and embedded systems documentation.
-
-| Sample | Description |
-|--------|-------------|
-| [Chip Specification](samples/semiconductor/01-chip-specification.md) | ARM-based controller specification including architecture, memory organization, peripherals, register definitions, and initialization sequence. |
-| [Architecture Overview](samples/semiconductor/02-architecture-overview.md) | High-level system architecture, component interactions, and design workflow. |
-| [User Guide](samples/semiconductor/03-user-guide.md) | End-user guide covering product setup, configuration, validation, and operational workflows. |
-| [Command Reference](samples/semiconductor/04-command-reference.md) | Command syntax, parameters, examples, and command-line reference for semiconductor design tools. |
-| Configuration Guide *(Coming Soon)* | Product configuration procedures and best practices. |
-| Clock & Reset Guide *(Coming Soon)* | Clock architecture, reset strategy, and timing considerations. |
-| ATPG Pattern Generation *(Coming Soon)* | Automated Test Pattern Generation (ATPG) workflow and coverage analysis. |
-| Troubleshooting Guide *(Coming Soon)* | Common issues, diagnostics, and debugging recommendations. |
-| Release Notes *(Coming Soon)* | Product enhancements, resolved issues, and known limitations. |
-
----
-
-## 🏦 FinTech Documentation Samples
-
-Representative documentation demonstrating enterprise banking platform documentation.
-
-- Banking Platform Overview
-- Interface Specification
-- REST API Guide
-- Kafka Streaming Guide
-- Swagger/OpenAPI Guide
-- Release Notes
-- Knowledge Base
-- Documentation Project Plan
-- API Style Guide
-- Docs-as-Code Workflow
 
 ---
 
@@ -212,7 +173,23 @@ This portfolio contains original documentation samples created specifically to d
 No confidential or proprietary information from any employer has been included.
 
 ---
+---
 
+# 🎯 Currently Expanding
+
+This portfolio is continuously evolving to showcase additional documentation deliverables, including:
+
+- Hardware Integration Guides
+- API Developer Portals
+- Deployment Guides
+- Migration Guides
+- Knowledge Base Collections
+- Documentation Governance Templates
+- AI-Assisted Documentation Workflows
+- Docs-as-Code Automation
+- Developer Experience (DX) Documentation
+
+---
 # Connect
 
 📧 **Email**
