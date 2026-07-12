@@ -28,24 +28,24 @@ This portfolio demonstrates my approach to documentation strategy, information a
 
 # Professional Highlights
 
-- ✔ 12+ Years of Technical Writing Experience
-- ✔ Semiconductor (EDA) Documentation
-- ✔ FinTech Documentation
-- ✔ Enterprise Software Documentation
-- ✔ Product Documentation
-- ✔ REST API Documentation
-- ✔ CLI Documentation
-- ✔ User Guides
-- ✔ Installation & Configuration Guides
-- ✔ Information Architecture
-- ✔ Documentation Governance
-- ✔ Docs-as-Code
-- ✔ Git & GitHub
-- ✔ AI-Assisted Documentation
-- ✔ Release Documentation
-- ✔ Knowledge Base Documentation
-- ✔ Accessibility & Content Standards
-- ✔ Cross-functional Collaboration
+- 12+ Years of Technical Writing Experience
+- Semiconductor (EDA) Documentation
+- FinTech Documentation
+- Enterprise Software Documentation
+- Product Documentation
+- REST API Documentation
+- CLI Documentation
+- User Guides
+- Installation & Configuration Guides
+- Information Architecture
+- Documentation Governance
+- Docs-as-Code
+- Git & GitHub
+- AI-Assisted Documentation
+- Release Documentation
+- Knowledge Base Documentation
+- Accessibility & Content Standards
+- Cross-functional Collaboration
 
 ---
 
