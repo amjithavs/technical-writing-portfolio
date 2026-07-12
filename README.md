@@ -86,17 +86,19 @@ These documents demonstrate documentation planning, governance, standards, revie
 
 ## 💻 Semiconductor Documentation Samples
 
-Representative documentation demonstrating semiconductor and embedded systems documentation.
+Representative documentation demonstrating semiconductor product documentation, hardware documentation, and embedded systems documentation.
 
-- Chip Specification
-- Architecture Overview
-- User Guide
-- Command Reference
-- Configuration Guide
-- Clock & Reset Guide
-- ATPG Pattern Generation
-- Troubleshooting Guide
-- Release Notes
+| Sample | Description |
+|--------|-------------|
+| [Chip Specification](samples/semiconductor/01-chip-specification.md) | ARM-based controller specification including architecture, memory organization, peripherals, register definitions, and initialization sequence. |
+| [Architecture Overview](samples/semiconductor/02-architecture-overview.md) | High-level system architecture, component interactions, and design workflow. |
+| [User Guide](samples/semiconductor/03-user-guide.md) | End-user guide covering product setup, configuration, validation, and operational workflows. |
+| [Command Reference](samples/semiconductor/04-command-reference.md) | Command syntax, parameters, examples, and command-line reference for semiconductor design tools. |
+| Configuration Guide *(Coming Soon)* | Product configuration procedures and best practices. |
+| Clock & Reset Guide *(Coming Soon)* | Clock architecture, reset strategy, and timing considerations. |
+| ATPG Pattern Generation *(Coming Soon)* | Automated Test Pattern Generation (ATPG) workflow and coverage analysis. |
+| Troubleshooting Guide *(Coming Soon)* | Common issues, diagnostics, and debugging recommendations. |
+| Release Notes *(Coming Soon)* | Product enhancements, resolved issues, and known limitations. |
 
 ---
 
