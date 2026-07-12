@@ -1,6 +1,6 @@
-# Semiconductor Product Documentation
+# Technical Writing Portfolio
 
-> A comprehensive documentation portfolio demonstrating end-to-end ownership of product documentation for a fictional semiconductor platform.
+A curated portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across Semiconductor, FinTech, and Enterprise SaaS domains.
 
 ---
 
@@ -16,16 +16,26 @@ It showcases documentation deliverables typically owned by a Senior Technical Wr
 
 | Document | Description |
 |----------|-------------|
-| **[Getting Started](docs/getting-started.md)** | Product introduction and onboarding |
-| Installation Guide | Install and verify the platform |
-| Configuration Guide | Configure the product |
-| User Guide | Daily product usage |
-| Administrator Guide | Administrative tasks |
-| CLI Reference | Command reference |
-| API Documentation | REST API documentation |
-| Release Notes | Product release history |
-| Troubleshooting Guide | Common issues and resolutions |
-| FAQ | Frequently Asked Questions |
+| **[Documentation Roadmap](docs/01-documentation-roadmap.md)** | Documentation strategy, scope, roadmap, and planning |
+| **[Information Architecture](docs/02-information-architecture.md)** | Content organization and navigation |
+| **[Product Overview](docs/03-product-overview.md)** | Product introduction and key capabilities |
+| **[Getting Started](docs/04-getting-started.md)** | Product introduction and onboarding |
+| **[Installation Guide](docs/05-installation-guide.md)** | Install and verify the platform |
+| **[Configuration Guide](docs/06-configuration-guide.md)** | Configure the product |
+| **[User Guide](docs/07-user-guide.md)** | Daily product usage |
+| **[Administrator Guide](docs/08-administrator-guide.md)** | Administrative tasks |
+| **[API Reference](docs/09-api-reference.md)** | REST API documentation |
+| **[CLI Reference](docs/10-cli-reference.md)** | Command reference |
+| **[Release Notes](docs/11-release-notes.md)** | Product release history |
+| **[Troubleshooting Guide](docs/12-troubleshooting-guide.md)** | Common issues and resolutions |
+| **[FAQ](docs/13-faq.md)** | Frequently asked questions |
+| **[Documentation Style Guide](docs/14-documentation-style-guide.md)** | Writing standards and terminology |
+| **[Documentation Review Checklist](docs/15-documentation-review-checklist.md)** | Documentation review process |
+| **[In-App Guidance](docs/16-in-app-guidance.md)** | User onboarding and in-app help |
+| **[UI Writing Guidelines](docs/17-ui-writing-guidelines.md)** | UX writing best practices |
+| **[Content Reuse Strategy](docs/18-content-reuse-strategy.md)** | Modular documentation approach |
+| **[AI-Assisted Documentation](docs/19-ai-assisted-documentation.md)** | Using AI in the documentation lifecycle |
+| **[Accessibility Guidelines](docs/20-accessibility-guidelines.md)** | Accessibility and inclusive documentation |
 
 ---
 
