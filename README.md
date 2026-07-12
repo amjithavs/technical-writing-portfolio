@@ -41,30 +41,84 @@ It showcases documentation deliverables typically owned by a Senior Technical Wr
 
 ---
 
-## 📖 Documentation Library
+# Professional Highlights
+
+- ✔ 14+ years of experience in Technical Documentation
+- ✔ Semiconductor (EDA), FinTech, and Enterprise Software domains
+- ✔ Product Documentation, API Documentation, and Developer Guides
+- ✔ Information Architecture and Content Strategy
+- ✔ Docs-as-Code (Git, GitHub, Markdown)
+- ✔ DITA and Structured Authoring
+- ✔ AI-Assisted Documentation
+- ✔ Release Documentation and Documentation Governance
+- ✔ Cross-functional collaboration with Engineering, Product Management, QA, and Customer Support
+
+  ---
+  
+
+# 📘 Documentation Framework
+
+These documents demonstrate documentation planning, governance, standards, review processes, and documentation strategy.
 
 | Document | Description |
 |----------|-------------|
-| **[Documentation Roadmap](docs/01-documentation-roadmap.md)** | Documentation strategy, scope, roadmap, and planning |
-| **[Information Architecture](docs/02-information-architecture.md)** | Content organization and navigation |
-| **[Product Overview](docs/03-product-overview.md)** | Product introduction and key capabilities |
-| **[Getting Started](docs/04-getting-started.md)** | Product introduction and onboarding |
-| **[Installation Guide](docs/05-installation-guide.md)** | Install and verify the platform |
-| **[Configuration Guide](docs/06-configuration-guide.md)** | Configure the product |
-| **[User Guide](docs/07-user-guide.md)** | Daily product usage |
-| **[Administrator Guide](docs/08-administrator-guide.md)** | Administrative tasks |
-| **[API Reference](docs/09-api-reference.md)** | REST API documentation |
-| **[CLI Reference](docs/10-cli-reference.md)** | Command reference |
-| **[Release Notes](docs/11-release-notes.md)** | Product release history |
-| **[Troubleshooting Guide](docs/12-troubleshooting-guide.md)** | Common issues and resolutions |
-| **[FAQ](docs/13-faq.md)** | Frequently asked questions |
-| **[Documentation Style Guide](docs/14-documentation-style-guide.md)** | Writing standards and terminology |
-| **[Documentation Review Checklist](docs/15-documentation-review-checklist.md)** | Documentation review process |
-| **[In-App Guidance](docs/16-in-app-guidance.md)** | User onboarding and in-app help |
-| **[UI Writing Guidelines](docs/17-ui-writing-guidelines.md)** | UX writing best practices |
-| **[Content Reuse Strategy](docs/18-content-reuse-strategy.md)** | Modular documentation approach |
-| **[AI-Assisted Documentation](docs/19-ai-assisted-documentation.md)** | Using AI in the documentation lifecycle |
-| **[Accessibility Guidelines](docs/20-accessibility-guidelines.md)** | Accessibility and inclusive documentation |
+| [Documentation Roadmap](docs/01-documentation-roadmap.md) | Documentation strategy and planning |
+| [Information Architecture](docs/02-information-architecture.md) | Content organization and navigation |
+| [Product Overview](docs/03-product-overview.md) | Product introduction and capabilities |
+| [Getting Started](docs/04-getting-started.md) | Product onboarding |
+| [Installation Guide](docs/05-installation-guide.md) | Installation instructions |
+| [Configuration Guide](docs/06-configuration-guide.md) | Product configuration |
+| [User Guide](docs/07-user-guide.md) | End-user documentation |
+| [Administrator Guide](docs/08-administrator-guide.md) | Administrative tasks |
+| [API Reference](docs/09-api-reference.md) | REST API documentation |
+| [CLI Reference](docs/10-cli-reference.md) | Command reference |
+| [Release Notes](docs/11-release-notes.md) | Product release history |
+| [Troubleshooting Guide](docs/12-troubleshooting-guide.md) | Common issues and resolutions |
+| [FAQ](docs/13-faq.md) | Frequently Asked Questions |
+| [Documentation Style Guide](docs/14-documentation-style-guide.md) | Documentation standards |
+| [Documentation Review Checklist](docs/15-documentation-review-checklist.md) | Review workflow |
+| [In-App Guidance](docs/16-in-app-guidance.md) | User assistance content |
+| [UI Writing Guidelines](docs/17-ui-writing-guidelines.md) | UI content standards |
+| [Content Reuse Strategy](docs/18-content-reuse-strategy.md) | Modular documentation |
+| [AI-Assisted Documentation](docs/19-ai-assisted-documentation.md) | AI-supported documentation |
+| [Accessibility Guidelines](docs/20-accessibility-guidelines.md) | Inclusive documentation |
+
+---
+
+# 💻 Semiconductor Documentation Samples
+
+Representative documentation demonstrating semiconductor and embedded systems documentation.
+
+| Sample | Description |
+|---------|-------------|
+| [Chip Specification](samples/semiconductor/01-chip-specification.md) | ARM-based controller specification |
+| [Architecture Overview](samples/semiconductor/02-architecture-overview.md) | High-level system architecture |
+| [User Guide](samples/semiconductor/03-user-guide.md) | Product usage guide |
+| [Command Reference](samples/semiconductor/04-command-reference.md) | CLI and command documentation |
+| Configuration Guide | Coming Soon |
+| Clock & Reset Guide | Coming Soon |
+| ATPG Pattern Generation | Coming Soon |
+| Troubleshooting Guide | Coming Soon |
+| Release Notes | Coming Soon |
+
+---
+
+# 🏦 FinTech Documentation Samples
+
+Representative documentation demonstrating enterprise banking platform documentation.
+
+| Sample | Description |
+|---------|-------------|
+| [Banking Platform Overview](samples/fintech/01-banking-platform-overview.md) | Enterprise banking platform |
+| [Interface Specification](samples/fintech/02-interface-specification.md) | Interface documentation |
+| [REST API Guide](samples/fintech/03-rest-api-guide.md) | REST API documentation |
+| [Kafka Streaming Guide](samples/fintech/04-kafka-streaming-guide.md) | Event-driven architecture |
+| [Swagger/OpenAPI Guide](samples/fintech/05-swagger-openapi-guide.md) | API specifications |
+| [Release Notes](samples/fintech/06-release-notes.md) | Product release documentation |
+| [Knowledge Base](samples/fintech/07-knowledge-base.md) | Support documentation |
+| [Documentation Project Plan](samples/fintech/08-documentation-project-plan.md) | Documentation planning |
+| [API Style Guide](samples/fintech/09-api-style-guide.md) | API writing standards |
+| [Docs-as-Code Workflow](samples/fintech/15-docs-as-code-workflow.md) | Documentation automation |
 
 ---
 
