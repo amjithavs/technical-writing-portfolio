@@ -56,19 +56,6 @@ This portfolio showcases my approach to planning, authoring, reviewing, publishi
 
 ---
 
-# Portfolio Statistics
-
-| Metric | Value |
-|---------|------:|
-| Years of Experience | 12+ |
-| Documentation Framework Guides | 20 |
-| Semiconductor Documentation Samples | 20 |
-| FinTech Documentation Samples | 15 |
-| Documentation Types | 25+ |
-| Product Domains | 3 |
-
----
-
 # Featured Documentation
 
 ## 📘 Documentation Framework
